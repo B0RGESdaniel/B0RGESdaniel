@@ -1,30 +1,30 @@
 ## Hi 👋, I am Daniel Borges
 
 ### Skills
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/html.png" />][html]
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/css.png" />][css]
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/sass.png" />][sass]
-[<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />][javascript]
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/typescript.png" />][typescript]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/html.png" />][html]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/css.png" />][css]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/sass.png" />][sass]
+[<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />][javascript]
+[<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />][typescript]
 
 <br/>
 
 ### Learning
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/react.png" />][react]
-[<img align="left" alt="linkedin" width="50px" src="./assets/images/next.png" />][next-js]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/react.png" />][react]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/next.png" />][next-js]
 
 <br/>
 
 ### Want to learn 
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/node.png" />][node]
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/python.png" />][python]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/node.png" />][node]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/python.png" />][python]
 
 <br/>
 
 ### Social Media
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/linkedin.png" />][linkedin]
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/instagram.png" />][instagram]
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/spotify.png" />][spotify]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/linkedin.png" />][linkedin]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/instagram.png" />][instagram]
+[<img align="left" alt="linkedin" width="30px" src="./assets/images/spotify.png" />][spotify]
 
 <br/>
 <br/>
