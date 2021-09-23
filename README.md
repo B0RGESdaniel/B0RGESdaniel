@@ -6,13 +6,22 @@
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/sass.png" />][sass]
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/javascript.png" />][javascript]
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/typescript.png" />][typescript]
+
+<br/>
+
 ### Learning
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/react.png" />][react]
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/react-native.png" />][react-native]
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/next.png" />][next-js]
+
+<br/>
+
 ### Want to learn 
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/node.png" />][node]
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/python.png" />][python]
+
+<br/>
+
 ### Social Media
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/linkedin.png" />][linkedin]
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/instagram.png" />][instagram]
