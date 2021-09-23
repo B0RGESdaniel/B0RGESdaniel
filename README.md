@@ -31,19 +31,12 @@
 ### Learning
 [<img align="left" alt="react" title="react" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][react]
 [<img align="left" alt="next-js" title="next-js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />][next-js]
+[<img align="left" alt="node" title="node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
     
 </div>    
 <br>
 <hr>
-<div>
-    
-### Want to learn 
-[<img align="left" alt="node" title="node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="python" title="python" width="30px" height="30px" src="./assets/images/python.png" />][python]
-    
-</div>
-<br>
-<hr>
+
 <div>
     
 ### Social
