@@ -16,7 +16,7 @@
 <br/>
 
 ### Want to learn 
-[<img align="left" alt="linkedin" width="30px" src="./assets/images/node.png" />][node]
+[<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
 [<img align="left" alt="linkedin" width="30px" src="./assets/images/python.png" />][python]
 
 <br/>
