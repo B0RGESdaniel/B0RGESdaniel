@@ -1,8 +1,8 @@
 ## Hi 👋, I am Daniel Borges
 
 ### Skills
-[<img align="left" alt="linkedin" width="30px" src="./assets/images/html.png" />][html]
-[<img align="left" alt="linkedin" width="30px" src="./assets/images/css.png" />][css]
+[<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />][html]
+[<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />][css]
 [<img align="left" alt="linkedin" width="30px" src="./assets/images/sass.png" />][sass]
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />][javascript]
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />][typescript]
@@ -10,7 +10,7 @@
 <br/>
 
 ### Learning
-[<img align="left" alt="linkedin" width="30px" src="./assets/images/react.png" />][react]
+[<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][react]
 [<img align="left" alt="linkedin" width="30px" src="./assets/images/next.png" />][next-js]
 
 <br/>
