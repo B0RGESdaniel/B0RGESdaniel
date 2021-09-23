@@ -11,8 +11,7 @@
 
 ### Learning
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/react.png" />][react]
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/react-native.png" />][react-native]
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/next.png" />][next-js]
+[<img align="left" alt="linkedin" width="50px" src="./assets/images/next.png" />][next-js]
 
 <br/>
 
