@@ -40,6 +40,7 @@
 <div>
     
 ### Social
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)][spotify]
@@ -53,6 +54,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0rgesdaniel&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
+[mail]: mailto:dlopesborges@gmail.com
 [instagram]: https://www.instagram.com/borges.dn/
 [linkedin]: https://www.linkedin.com/in/daniel-b0rges/
 [html]: https://devdocs.io/html/
