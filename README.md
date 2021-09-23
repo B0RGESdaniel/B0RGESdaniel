@@ -1,34 +1,51 @@
 ## Hi 👋, I am Daniel Borges
 
+<div>
+
 ### Skills
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />][html]
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />][css]
-[<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" />][sass]
+[<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg"   />][sass]
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />][javascript]
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />][typescript]
-<img align="left" alt="figma" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" />
+    
+<img align="left" alt="vscode" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" />
 
-<br/>
-
+<img align="left" alt="figma" width="25px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" />
+    
+</div>
+    
+<br>
+<hr>
+<div>
+    
 ### Learning
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][react]
-[<img align="left" alt="linkedin" width="30px" src="./assets/images/next.png" />][next-js]
-
-<br/>
-
+[<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />][next-js]
+    
+</div>    
+<br>
+<hr>
+<div>
+    
 ### Want to learn 
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="linkedin" width="30px" src="./assets/images/python.png" />][python]
-
+[<img align="left" alt="linkedin" width="30px" height="30px" src="./assets/images/python.png" />][python]
+    
+</div>
+<br>
+<hr>
+<div>
+    
+### Social
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)][spotify]
+    
+</div>
+    
 <br/>
 
-### Social Media
-[<img align="left" alt="linkedin" width="30px" src="./assets/images/linkedin.png" />][linkedin]
-[<img align="left" alt="linkedin" width="30px" src="./assets/images/instagram.png" />][instagram]
-[<img align="left" alt="linkedin" width="30px" src="./assets/images/spotify.png" />][spotify]
-
-<br/>
-<br/>
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b0rgesdaniel&show_icons=true&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0rgesdaniel&layout=compact&langs_count=7&theme=tokyonight" />
