@@ -4,7 +4,7 @@
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/html.png" />][html]
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/css.png" />][css]
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/sass.png" />][sass]
-[<img align="left" alt="linkedin" width="26px" src="./assets/images/javascript.png" />][javascript]
+[<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />][javascript]
 [<img align="left" alt="linkedin" width="26px" src="./assets/images/typescript.png" />][typescript]
 
 <br/>
