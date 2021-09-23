@@ -6,6 +6,7 @@
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg" />][sass]
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />][javascript]
 [<img align="left" alt="linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />][typescript]
+<img align="left" alt="figma" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" />
 
 <br/>
 
