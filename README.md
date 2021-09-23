@@ -12,6 +12,7 @@
 <div>
 
 ### Skills
+<a href="https://devdocs.io/html/" target="blank"><img align="left" alt="html" title="html" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
 [<img align="left" alt="html" title="html" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />][html]
 [<img align="left" alt="css" title="css" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />][css]
 [<img align="left" alt="sass" title="sass" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg"   />][sass]
