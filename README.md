@@ -2,10 +2,9 @@
 
 <div>
 
-- 🔭 I’m currently working on Web Development;
+- 🔭 I’m currently working on Web and Mobile Development;
 - 🌱 I’m currently learning React;
 - 👯 I’m looking to collaborate on React or React Native projects;
-- 🤞  I'm searching for my first opportunity
 
 </div>
 
