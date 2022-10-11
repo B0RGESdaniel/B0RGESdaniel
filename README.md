@@ -2,8 +2,8 @@
 
 <div>
 
-- 🔭 I’m currently working on Web and Mobile Development;
-- 🌱 I’m currently learning React and Next.JS;
+- 🔭 I’m currently working as a Front-end Developer at Metatron;
+- 🌱 I’m currently learning React and Node.JS;
 - 👯 I’m looking to collaborate on React or React Native projects;
 
 </div>
