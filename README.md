@@ -2,7 +2,7 @@
 
 <div>
 
-- 🔭 I’m currently working as a Front-end Developer at Metatron;
+- 🔭 I’m currently working as a Front-end Developer at FeSaúde;
 - 🌱 I’m currently learning React and Node.JS;
 - 👯 I’m looking to collaborate on React or React Native projects;
 
