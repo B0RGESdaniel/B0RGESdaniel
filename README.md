@@ -13,12 +13,18 @@
 [<img align="left" alt="typescript" title="typescript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />][typescript]
 [<img align="left" alt="react" title="react" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][react]
 [<img align="left" alt="node" title="node" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+</br>
+</br>
 [<img align="left" alt="next-js" title="next-js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />][next-js]
+<img align="left" alt="git" title="git" width="30px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="postgresql" title="postgresql" width="35px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="docker" title="docker" width="35px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 <img align="left" alt="figma" title="figma" width="25px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/figma/figma-original.svg" />
+<img align="left" alt="python" title="python" width="30px" height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
+
     
 </div>
 
-</br>
 </br>
 </br>
 
